@@ -1,0 +1,15 @@
+.openning {
+    background-color: darkcyan;
+    color: black;
+    text-align: center;
+    margin-top: 80px;
+    padding: 70px;
+}
+
+#link {
+    color: aquamarine;
+    font-size: 25px;
+}
+.bold {
+    font-weight: bold;
+}
